@@ -7,4 +7,4 @@ jobs:
       - name: Hello Github Action
         run: echo "Hello this is first workflow in github actions"
       - name: Bye Github Action
-        run: echi "By Github actions"
+        run: echo "By Github actions"
