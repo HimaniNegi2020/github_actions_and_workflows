@@ -1,4 +1,4 @@
-name: Valide Files
+name: Validate Files
 on: push
 jobs:
   validate_files:
