@@ -13,3 +13,6 @@ jobs:
 
       - name: Validate JS files
         run: test -f script.js
+
+      - name: Validate JS files
+        run: node --check script.js
